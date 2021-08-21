@@ -1,4 +1,4 @@
- ## <img align="center" width="140" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47alrvrrv7rjjii5n5npm4oathvit2apbszdw1i7hl&rid=giphy.gif&ct=g" /> Hello there, how you doing? </h2>
+ ## <img align="center" width="140" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47alrvrrv7rjjii5n5npm4oathvit2apbszdw1i7hl&rid=giphy.gif&ct=g" /> Hello there, how you doin? </h2>
  
  My name is Lucas Macedo Barboza, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a>  (UNB). I'm passionate about Frontend and the creative process involving UX/UI design. Also I try to learn back-end and mobile as much as possible to develop myself and create my own apps
 
@@ -14,10 +14,12 @@ If you wanna know more about me, follow me in my social medias or contact-me:
 
 ### 🧑‍🎓 Languages and Tools
  <div style="display: inline_block">
-  <code><img height="20" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="20" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="20" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="20" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img alt="Lucas-VScode" height="30" width="40" src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"> </code>
+  <code><img alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
 </div>
 
 ##
