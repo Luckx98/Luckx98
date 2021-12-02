@@ -1,6 +1,7 @@
  ## <img align="center" width="140" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47alrvrrv7rjjii5n5npm4oathvit2apbszdw1i7hl&rid=giphy.gif&ct=g" /> Hello there, how you doin? </h2>
  
- My name is Lucas Macedo Barboza, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a>  (UNB). I'm passionate about Frontend and the creative process involving UX/UI design. Also I try to learn back-end and mobile as much as possible to develop myself and create my own apps
+ My name is Lucas Macedo Barboza, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a>  (UNB). 
+ I'm passionate about Frontend and the creative process involving UX/UI design. Also I try to learn back-end and mobile as much as possible to develop myself and create my own apps
 
 
 If you wanna know more about me, follow me in my social medias or contact-me:
