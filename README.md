@@ -1,6 +1,11 @@
   <h1 align="center"> Olá, eu sou o Lucas Macedo <img width="40" src="https://emojis.slackmojis.com/emojis/images/1565879801/6181/waving_hand_animated.gif?1565879801" alt="Waving Hand" /> </h1>
 
   <img align="right" width="30%" src="https://media.giphy.com/media/xfleD6ByCmgta/giphy.gif" alt="Basecamp sky" />
+  <p align="left">
+    <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/Luckx98/Luckx98" alt="Visitors badge" />
+   </a>
+  </p>
 
   ## 📄 **Bem vindo a minha página**
   <p> 
