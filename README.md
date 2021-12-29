@@ -112,7 +112,12 @@
     </td>
      <td>
       <a href="https://slack.com/">
-        <img title="Slack" alt="Slack" width="56px" src="https://user-images.githubusercontent.com/65639491/133542455-39845da3-1c57-4df5-9748-e8bf51f8af48.png">
+        <img title="Slack" alt="Slack" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
+      </a>
+    </td>
+    <td>
+      <a>
+        <img title="Linux" alt="Linux" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
       </a>
     </td>
   </tr>
