@@ -1,11 +1,7 @@
   <h1 align="center"> Olá, eu sou o Lucas Macedo <img width="40" src="https://emojis.slackmojis.com/emojis/images/1565879801/6181/waving_hand_animated.gif?1565879801" alt="Waving Hand" /> </h1>
 
   <img align="right" width="30%" src="https://media.giphy.com/media/xfleD6ByCmgta/giphy.gif" alt="Basecamp sky" />
-  <p align="left">
-    <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Luckx98/Luckx98" alt="Visitors badge" />
-   </a>
-  </p>
+  
 
   ## 📄 **Bem vindo a minha página**
   <p> 
@@ -138,6 +134,13 @@
   
   ![Snake animation](https://github.com/Luckx98/Luckx98/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<p align="left">
+    <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/Luckx98/Luckx98" alt="Visitors badge" />
+   </a>
+</p>
+
 <!--
 **Luckx98/Luckx98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
