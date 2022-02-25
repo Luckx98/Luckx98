@@ -53,24 +53,16 @@
   <table>
   <tr>
     <td>
-      <a href="https://angular.io/">
         <img title="Angular" alt="Angular" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
-      </a>
     </td>
     <td>
-      <a href="https://reactjs.org/">
         <img title="React" alt="React" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-      </a>
     </td>
     <td>
-      <a href="https://nodejs.org/en/">
         <img title="NodeJs" alt="NodeJs" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
-      </a>
     </td>
     <td>
-      <a href="https://www.docker.com/">
         <img title="Docker" alt="Docker" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-      </a>   
     </td>
   </tr>
 </table>
@@ -80,19 +72,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img title="HTML" alt="HTML" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-      </a>
+        <img title="HTML" alt="HTML" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img title="CSS" alt="CSS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-      </a>
+        <img title="CSS" alt="CSS" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     </td>
     <td>
-      <a href="https://sass-lang.com/">
         <img title="SASS" alt="SASS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">
-      </a>
     </td>
   </tr>
 </table>
@@ -102,24 +88,22 @@
 <table>
   <tr>
     <td>
-      <a href="https://code.visualstudio.com/">
         <img title="VSCode" alt="VSCode" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-      </a>
     </td>
     <td>
-      <a href="https://www.figma.com/">
         <img title="Figma" alt="Figma" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
-      </a>
+    </td>
+    <td>
+        <img title="Git" alt="Git" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    </td>
+    <td>
+        <img title="GitHub" alt="GitHub" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
     </td>
      <td>
-      <a href="https://slack.com/">
         <img title="Slack" alt="Slack" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
-      </a>
     </td>
     <td>
-      <a>
         <img title="Linux" alt="Linux" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-      </a>
     </td>
   </tr>
 </table>
